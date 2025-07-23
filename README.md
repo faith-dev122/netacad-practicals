@@ -2,7 +2,7 @@
 
 This repository contains screenshots of completed practicals and lab work from two Cisco Networking Academy (NetAcad) courses
 
-**Data Essentials**
+**Data Essentials** and 
 **Introduction to Data Science**
 
 ** # Notes**
